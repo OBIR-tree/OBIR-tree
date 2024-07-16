@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test1\include\Branch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test1\include\Node.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test1\include\Pdefault.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test1\include\Ptree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="test1\include\PathORAM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test1\include\Node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1\include\test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1\include\Pdefault.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1\include\PathORAM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test1\data\output.txt" />
+    <Text Include="test1\data\query1.txt" />
+    <Text Include="test1\data\query2.txt" />
+    <Text Include="test1\data\query6.txt" />
+    <Text Include="test1\data\dataset.txt" />
+    <Text Include="test1\include\dataset.txt" />
+    <Text Include="test1\data\dataset2.txt" />
+    <Text Include="test1\data\query3.txt" />
+    <Text Include="test1\data\query4.txt" />
+    <Text Include="test1\data\output2.txt" />
+    <Text Include="test1\data\input.txt" />
+    <Text Include="test1\data\query11.txt" />
+    <Text Include="test1\data\input2.txt" />
+    <Text Include="test1\data\input3.txt" />
+    <Text Include="..\..\..\..\Users\20191\Desktop\Paper\实验数据\2015(1).txt" />
+    <Text Include="test1\data\output4.txt" />
+    <Text Include="test1\data\dic.txt" />
+    <Text Include="test1\data\query7.txt" />
+    <Text Include="test1\data\dataset5.txt" />
+    <Text Include="test1\data\dic3.txt" />
+    <Text Include="test1\data\outputfile.txt" />
+    <Text Include="test1\data\10.txt" />
+    <Text Include="test1\data\11.txt" />
+    <Text Include="test1\data\13.txt" />
+    <Text Include="test1\data\12.txt" />
+    <Text Include="test1\data\18.txt" />
+    <Text Include="test1\data\14.txt" />
+    <Text Include="test1\data\15.txt" />
+    <Text Include="test1\data\16.txt" />
+    <Text Include="test1\data\17.txt" />
+    <Text Include="test1\data\19.txt" />
+    <Text Include="test1\data\20.txt" />
+    <Text Include="test1\data\21.txt" />
+    <Text Include="test1\data\key.txt" />
+    <Text Include="test1\data\query.txt" />
+    <Text Include="test1\data\13-2.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+/home/hhhead/桌面/OBIR-tree/Project1/cmake-build-debug/CMakeFiles/Project1.dir
+/home/hhhead/桌面/OBIR-tree/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hhhead/桌面/OBIR-tree/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
