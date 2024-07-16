@@ -14,9 +14,9 @@ Install SGX SDK 2.0: https://github.com/intel/linux-sgx/archive/refs/tags/sgx_2.
 
 Install the above binary file in /opt/intel
 
-Execute the following command to allow the app to find libsample_crypto.so:
+Execute the following command to allow the app to find cryptopp.a:
 
-sudo cp sample_libcrypto/libsample_libcrypto.so /usr/lib
+sudo apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
 
 ## SGX2 version of the code ###
 There are few changes in the SGX2 version of the code in comparison to SGX1, includeing:
