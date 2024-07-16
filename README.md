@@ -45,7 +45,6 @@ Running:
 
 
 Compiling:
-Cmake
 Make
 Running:
 ./app
